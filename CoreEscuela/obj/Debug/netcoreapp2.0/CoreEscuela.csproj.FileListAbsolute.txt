@@ -1,0 +1,11 @@
+C:\Users\rmedina\Desktop\platzi\CoreEscuela\bin\Debug\netcoreapp2.0\CoreEscuela.deps.json
+C:\Users\rmedina\Desktop\platzi\CoreEscuela\bin\Debug\netcoreapp2.0\CoreEscuela.runtimeconfig.json
+C:\Users\rmedina\Desktop\platzi\CoreEscuela\bin\Debug\netcoreapp2.0\CoreEscuela.runtimeconfig.dev.json
+C:\Users\rmedina\Desktop\platzi\CoreEscuela\bin\Debug\netcoreapp2.0\CoreEscuela.dll
+C:\Users\rmedina\Desktop\platzi\CoreEscuela\bin\Debug\netcoreapp2.0\CoreEscuela.pdb
+C:\Users\rmedina\Desktop\platzi\CoreEscuela\obj\Debug\netcoreapp2.0\CoreEscuela.csprojAssemblyReference.cache
+C:\Users\rmedina\Desktop\platzi\CoreEscuela\obj\Debug\netcoreapp2.0\CoreEscuela.csproj.CoreCompileInputs.cache
+C:\Users\rmedina\Desktop\platzi\CoreEscuela\obj\Debug\netcoreapp2.0\CoreEscuela.AssemblyInfoInputs.cache
+C:\Users\rmedina\Desktop\platzi\CoreEscuela\obj\Debug\netcoreapp2.0\CoreEscuela.AssemblyInfo.cs
+C:\Users\rmedina\Desktop\platzi\CoreEscuela\obj\Debug\netcoreapp2.0\CoreEscuela.dll
+C:\Users\rmedina\Desktop\platzi\CoreEscuela\obj\Debug\netcoreapp2.0\CoreEscuela.pdb
