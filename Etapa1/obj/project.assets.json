@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rmedina\\Desktop\\platzi\\Etapa1\\Etapa1.csproj",
+      "projectUniqueName": "C:\\Users\\rmedina\\Documents\\GitHub\\ASPNet\\Etapa1\\Etapa1.csproj",
       "projectName": "Etapa1",
-      "projectPath": "C:\\Users\\rmedina\\Desktop\\platzi\\Etapa1\\Etapa1.csproj",
+      "projectPath": "C:\\Users\\rmedina\\Documents\\GitHub\\ASPNet\\Etapa1\\Etapa1.csproj",
       "packagesPath": "C:\\Users\\rmedina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rmedina\\Desktop\\platzi\\Etapa1\\obj\\",
+      "outputPath": "C:\\Users\\rmedina\\Documents\\GitHub\\ASPNet\\Etapa1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

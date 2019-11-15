@@ -1,18 +1,27 @@
 using System;
+using System.Collections.Generic;
+using CoreEscuela.Entidades;
+using CoreEscuela.Util;
+using Etapa1.Entidades;
 
 namespace CoreEscuela.Entidades
 {
-    public class Curso
+    public class Curso: ObjetoEscuelaBase, ILugar
     {
-        public string UniqueId { get; private set; }
 
-        public string Nombre { get; set; }
 
         public TiposJornada Jornada { get; set; }
 
-        public Curso()
+        public List<Asignatura> Asignaturas {get; set;}
+
+        public List<Alumno> Alumnos { get; set; }
+        string ILugar.Direccion { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+
+        public void LimpiarLugar()
         {
-            UniqueId = Guid.NewGuid().ToString();
+            Printer.DrawLine();
+            Console.WriteLine("Limpiando Establecimiento...");
+            Console.WriteLine($"Curso {Nombre} Limpio");             
         }
     }
 }
